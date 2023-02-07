@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/suzuki-ctrl/search-app/static/css/main.e65b5f8f.css",
+    "main.js": "/suzuki-ctrl/search-app/static/js/main.7dbf14b8.js",
+    "static/js/787.852ba6a8.chunk.js": "/suzuki-ctrl/search-app/static/js/787.852ba6a8.chunk.js",
+    "index.html": "/suzuki-ctrl/search-app/index.html",
+    "main.e65b5f8f.css.map": "/suzuki-ctrl/search-app/static/css/main.e65b5f8f.css.map",
+    "main.7dbf14b8.js.map": "/suzuki-ctrl/search-app/static/js/main.7dbf14b8.js.map",
+    "787.852ba6a8.chunk.js.map": "/suzuki-ctrl/search-app/static/js/787.852ba6a8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e65b5f8f.css",
+    "static/js/main.7dbf14b8.js"
+  ]
+}
